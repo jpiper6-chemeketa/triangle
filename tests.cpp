@@ -1,4 +1,6 @@
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
+#include "Point.h"
+#include "Triangle.h"
 #include "doctest.h"
 
 using doctest::Approx;
